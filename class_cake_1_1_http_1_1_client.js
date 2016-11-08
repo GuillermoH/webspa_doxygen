@@ -1,0 +1,25 @@
+var class_cake_1_1_http_1_1_client =
+[
+    [ "__construct", "class_cake_1_1_http_1_1_client.html#a40175e950499a1e2b0390017bb86dbab", null ],
+    [ "_addAuthentication", "class_cake_1_1_http_1_1_client.html#a789edfb102811cf689e4c2b194735fab", null ],
+    [ "_addProxy", "class_cake_1_1_http_1_1_client.html#a34448d46e79f86115a4fab925ef117e8", null ],
+    [ "_createAuth", "class_cake_1_1_http_1_1_client.html#acc55c00423185dfe2e167ebbaba6c2ae", null ],
+    [ "_createRequest", "class_cake_1_1_http_1_1_client.html#abd58e9d3c0b46bfe33283c4b30d2ea11", null ],
+    [ "_doRequest", "class_cake_1_1_http_1_1_client.html#adc011ff47e2d36e3fc2d5e4aeb364de4", null ],
+    [ "_mergeOptions", "class_cake_1_1_http_1_1_client.html#afecbece5d2ed7ff78c5b28c3ed29bb4c", null ],
+    [ "_typeHeaders", "class_cake_1_1_http_1_1_client.html#ae937fc8f104e95c42cd785289df60691", null ],
+    [ "buildUrl", "class_cake_1_1_http_1_1_client.html#aae421711c599c5cb0cd21841df1d3bb2", null ],
+    [ "cookies", "class_cake_1_1_http_1_1_client.html#a3fa272748a8a2073b99a318fb353c482", null ],
+    [ "delete", "class_cake_1_1_http_1_1_client.html#a8f9ae9864db49b63fac68fa78964da5a", null ],
+    [ "get", "class_cake_1_1_http_1_1_client.html#aa2cc822a7ec26051abef8702f5844f95", null ],
+    [ "head", "class_cake_1_1_http_1_1_client.html#a450b48856c557b83c6a32fecf7206c05", null ],
+    [ "options", "class_cake_1_1_http_1_1_client.html#ae824a1858751d41a4b49e84b81916a21", null ],
+    [ "patch", "class_cake_1_1_http_1_1_client.html#ad346d98684eabce6d0a930cfe3587465", null ],
+    [ "post", "class_cake_1_1_http_1_1_client.html#a28e32c6d80a61d51a5e4425bb59c57f0", null ],
+    [ "put", "class_cake_1_1_http_1_1_client.html#a7158b5d4ca0b357df215675e8760eada", null ],
+    [ "send", "class_cake_1_1_http_1_1_client.html#ae8ec30859c7749d54c1cbbe253af43d5", null ],
+    [ "trace", "class_cake_1_1_http_1_1_client.html#ad4d676a29fe9b13cbc9c61e1cf06c801", null ],
+    [ "$_adapter", "class_cake_1_1_http_1_1_client.html#a465f293474a3bbb7341af052f7de13d7", null ],
+    [ "$_cookies", "class_cake_1_1_http_1_1_client.html#acd2227760e748be5c92a4a0971819e65", null ],
+    [ "$_defaultConfig", "class_cake_1_1_http_1_1_client.html#a7b6031f7f7be4e2f5906419896d152e3", null ]
+];

@@ -1,0 +1,21 @@
+digraph "ObjectRegistry"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ObjectRegistry",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CacheRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_cache_1_1_cache_registry.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HelperRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_console_1_1_helper_registry.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TaskRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_console_1_1_task_registry.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ComponentRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_controller_1_1_component_registry.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ConnectionRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_datasource_1_1_connection_registry.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="LogEngineRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_log_1_1_log_engine_registry.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="BehaviorRegistry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_o_r_m_1_1_behavior_registry.html"];
+}

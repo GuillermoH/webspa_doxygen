@@ -1,0 +1,25 @@
+var namespace_cake =
+[
+    [ "Auth", "namespace_cake_1_1_auth.html", "namespace_cake_1_1_auth" ],
+    [ "Cache", "namespace_cake_1_1_cache.html", "namespace_cake_1_1_cache" ],
+    [ "Collection", "namespace_cake_1_1_collection.html", "namespace_cake_1_1_collection" ],
+    [ "Console", "namespace_cake_1_1_console.html", "namespace_cake_1_1_console" ],
+    [ "Controller", "namespace_cake_1_1_controller.html", "namespace_cake_1_1_controller" ],
+    [ "Core", "namespace_cake_1_1_core.html", "namespace_cake_1_1_core" ],
+    [ "Database", "namespace_cake_1_1_database.html", "namespace_cake_1_1_database" ],
+    [ "Datasource", "namespace_cake_1_1_datasource.html", "namespace_cake_1_1_datasource" ],
+    [ "Error", "namespace_cake_1_1_error.html", "namespace_cake_1_1_error" ],
+    [ "Event", "namespace_cake_1_1_event.html", "namespace_cake_1_1_event" ],
+    [ "Filesystem", "namespace_cake_1_1_filesystem.html", "namespace_cake_1_1_filesystem" ],
+    [ "Form", "namespace_cake_1_1_form.html", "namespace_cake_1_1_form" ],
+    [ "Http", "namespace_cake_1_1_http.html", "namespace_cake_1_1_http" ],
+    [ "I18n", "namespace_cake_1_1_i18n.html", "namespace_cake_1_1_i18n" ],
+    [ "Log", "namespace_cake_1_1_log.html", "namespace_cake_1_1_log" ],
+    [ "Mailer", "namespace_cake_1_1_mailer.html", "namespace_cake_1_1_mailer" ],
+    [ "Network", "namespace_cake_1_1_network.html", "namespace_cake_1_1_network" ],
+    [ "ORM", "namespace_cake_1_1_o_r_m.html", "namespace_cake_1_1_o_r_m" ],
+    [ "Routing", "namespace_cake_1_1_routing.html", "namespace_cake_1_1_routing" ],
+    [ "Shell", "namespace_cake_1_1_shell.html", "namespace_cake_1_1_shell" ],
+    [ "TestSuite", "namespace_cake_1_1_test_suite.html", "namespace_cake_1_1_test_suite" ],
+    [ "Utility", "namespace_cake_1_1_utility.html", "namespace_cake_1_1_utility" ]
+];

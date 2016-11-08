@@ -1,0 +1,26 @@
+var class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture =
+[
+    [ "__construct", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a095c5d389db211932136b53f25f39685", null ],
+    [ "_getRecords", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a5fb6b3b8f002e58c11129fdfc173ba16", null ],
+    [ "_schemaFromFields", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#aca8117bac301a52d0ddfb0e32b2953d4", null ],
+    [ "_schemaFromImport", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a7b9a9c662bba143b5fc17440b6e919a3", null ],
+    [ "_schemaFromReflection", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a65132b84c2b4b2d17debc6378e19c87e", null ],
+    [ "_tableFromClass", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a8634d77d3c726a8b219a7ecc13025bfe", null ],
+    [ "connection", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a7fa48f6882eccec91ea9c433e1ad2a57", null ],
+    [ "create", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a1e210003c1901c734723ba6fbb26a644", null ],
+    [ "createConstraints", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a71f00cb93bb0f48b9252e00ae6d73658", null ],
+    [ "drop", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a0d159a93ca54d5fd81b08afe9ea6931a", null ],
+    [ "dropConstraints", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a83460e0f2505b7d1b2dcb5e394d8ef91", null ],
+    [ "init", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a4be4055f3361d4800e16bc2e2e38cda6", null ],
+    [ "insert", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#aac49fc2395f09b043a9aa04162cdd46e", null ],
+    [ "schema", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a5bcd77fe91e102c5863b0bf8a6a6a3c4", null ],
+    [ "sourceName", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a0852c91de7d4897a42843c62dddc9bd2", null ],
+    [ "truncate", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#ab502cd4adc47d14ba0f79db0381511d6", null ],
+    [ "$_constraints", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#ac68bc90c9d8c2c96ac6e34d9b63d88a7", null ],
+    [ "$_schema", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#ad86f0aac1c5254c623bf3a6683ed56e8", null ],
+    [ "$connection", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a0d9c79b9b86b3f5891c6d3892f12c6a0", null ],
+    [ "$fields", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#ab2303c817e3b402b77b7f99627b9c319", null ],
+    [ "$import", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a268adb9a1f963c9f862f1158e9cfbffd", null ],
+    [ "$records", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#a6cb1988642ff4f03fdfb3658cdd14fa0", null ],
+    [ "$table", "class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html#ae8876a14058f368335baccf35af4a22b", null ]
+];

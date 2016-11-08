@@ -1,0 +1,27 @@
+var class_cake_1_1_routing_1_1_route_builder =
+[
+    [ "__construct", "class_cake_1_1_routing_1_1_route_builder.html#a2d7eabacb7e21023f064f88a7cad880d", null ],
+    [ "_makeRoute", "class_cake_1_1_routing_1_1_route_builder.html#ad43ec65863279f7fac8cf5e8b2938c19", null ],
+    [ "addExtensions", "class_cake_1_1_routing_1_1_route_builder.html#a60e69f37bab0681911586e97ee6f0d01", null ],
+    [ "connect", "class_cake_1_1_routing_1_1_route_builder.html#a29a285338f38a1097c1e90aba25787d7", null ],
+    [ "extensions", "class_cake_1_1_routing_1_1_route_builder.html#aa2f9955ad9c157556db81f87238f3b08", null ],
+    [ "fallbacks", "class_cake_1_1_routing_1_1_route_builder.html#a2769988e3f3b901c9a90ee24e05a82a6", null ],
+    [ "nameExists", "class_cake_1_1_routing_1_1_route_builder.html#a20028335dd50c22187b03510953bbcf5", null ],
+    [ "namePrefix", "class_cake_1_1_routing_1_1_route_builder.html#ac40d6cf412e7ad48a91af04115ccda86", null ],
+    [ "params", "class_cake_1_1_routing_1_1_route_builder.html#ad57c8010f3be5cd585d1ed1eaaff3628", null ],
+    [ "path", "class_cake_1_1_routing_1_1_route_builder.html#a3b05eec13add53df44e232273d718ae4", null ],
+    [ "plugin", "class_cake_1_1_routing_1_1_route_builder.html#a39a1a24c09a3e46abda35076f87004d4", null ],
+    [ "prefix", "class_cake_1_1_routing_1_1_route_builder.html#a86b23065793707b30f1bb31f73ec41a1", null ],
+    [ "redirect", "class_cake_1_1_routing_1_1_route_builder.html#ad2ca9ab495fba58e96c25b2829e750a6", null ],
+    [ "resources", "class_cake_1_1_routing_1_1_route_builder.html#ad45275809a4492651844d018a9f6fde4", null ],
+    [ "routeClass", "class_cake_1_1_routing_1_1_route_builder.html#afc1c88ed413f831590f14d4c1abc1dc7", null ],
+    [ "scope", "class_cake_1_1_routing_1_1_route_builder.html#ade1463c01de27de9c551a8bfd0ecc7c7", null ],
+    [ "$_collection", "class_cake_1_1_routing_1_1_route_builder.html#ab4be16a0669465099b180d984991b709", null ],
+    [ "$_extensions", "class_cake_1_1_routing_1_1_route_builder.html#a1143bb2d672a30e21d0591c4b6b72c31", null ],
+    [ "$_namePrefix", "class_cake_1_1_routing_1_1_route_builder.html#a162db7f772990cbb4f6536c1e08992fa", null ],
+    [ "$_params", "class_cake_1_1_routing_1_1_route_builder.html#aff25584819f2e6f56d7dbc14f26d32c1", null ],
+    [ "$_path", "class_cake_1_1_routing_1_1_route_builder.html#a7827e5ae727e96269db2e008bbfb9773", null ],
+    [ "$_routeClass", "class_cake_1_1_routing_1_1_route_builder.html#a77020d94319f0229457066255888dc6f", null ],
+    [ "ID", "class_cake_1_1_routing_1_1_route_builder.html#a0242c89b204631bde9edc65a9a731f47", null ],
+    [ "UUID", "class_cake_1_1_routing_1_1_route_builder.html#a74b892c8c0b86bf9d04c5819898c51e7", null ]
+];

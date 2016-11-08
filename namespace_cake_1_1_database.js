@@ -1,0 +1,27 @@
+var namespace_cake_1_1_database =
+[
+    [ "Driver", "namespace_cake_1_1_database_1_1_driver.html", "namespace_cake_1_1_database_1_1_driver" ],
+    [ "Exception", "namespace_cake_1_1_database_1_1_exception.html", "namespace_cake_1_1_database_1_1_exception" ],
+    [ "Expression", "namespace_cake_1_1_database_1_1_expression.html", "namespace_cake_1_1_database_1_1_expression" ],
+    [ "Log", "namespace_cake_1_1_database_1_1_log.html", "namespace_cake_1_1_database_1_1_log" ],
+    [ "Schema", "namespace_cake_1_1_database_1_1_schema.html", "namespace_cake_1_1_database_1_1_schema" ],
+    [ "Statement", "namespace_cake_1_1_database_1_1_statement.html", "namespace_cake_1_1_database_1_1_statement" ],
+    [ "Type", "namespace_cake_1_1_database_1_1_type.html", "namespace_cake_1_1_database_1_1_type" ],
+    [ "Connection", "class_cake_1_1_database_1_1_connection.html", "class_cake_1_1_database_1_1_connection" ],
+    [ "Driver", "class_cake_1_1_database_1_1_driver.html", "class_cake_1_1_database_1_1_driver" ],
+    [ "Exception", "class_cake_1_1_database_1_1_exception.html", null ],
+    [ "ExpressionInterface", "interface_cake_1_1_database_1_1_expression_interface.html", "interface_cake_1_1_database_1_1_expression_interface" ],
+    [ "FieldTypeConverter", "class_cake_1_1_database_1_1_field_type_converter.html", "class_cake_1_1_database_1_1_field_type_converter" ],
+    [ "FunctionsBuilder", "class_cake_1_1_database_1_1_functions_builder.html", "class_cake_1_1_database_1_1_functions_builder" ],
+    [ "IdentifierQuoter", "class_cake_1_1_database_1_1_identifier_quoter.html", "class_cake_1_1_database_1_1_identifier_quoter" ],
+    [ "Query", "class_cake_1_1_database_1_1_query.html", "class_cake_1_1_database_1_1_query" ],
+    [ "QueryCompiler", "class_cake_1_1_database_1_1_query_compiler.html", "class_cake_1_1_database_1_1_query_compiler" ],
+    [ "SqliteCompiler", "class_cake_1_1_database_1_1_sqlite_compiler.html", "class_cake_1_1_database_1_1_sqlite_compiler" ],
+    [ "SqlserverCompiler", "class_cake_1_1_database_1_1_sqlserver_compiler.html", "class_cake_1_1_database_1_1_sqlserver_compiler" ],
+    [ "StatementInterface", "interface_cake_1_1_database_1_1_statement_interface.html", "interface_cake_1_1_database_1_1_statement_interface" ],
+    [ "Type", "class_cake_1_1_database_1_1_type.html", "class_cake_1_1_database_1_1_type" ],
+    [ "TypedResultInterface", "interface_cake_1_1_database_1_1_typed_result_interface.html", "interface_cake_1_1_database_1_1_typed_result_interface" ],
+    [ "TypeInterface", "interface_cake_1_1_database_1_1_type_interface.html", "interface_cake_1_1_database_1_1_type_interface" ],
+    [ "TypeMap", "class_cake_1_1_database_1_1_type_map.html", "class_cake_1_1_database_1_1_type_map" ],
+    [ "ValueBinder", "class_cake_1_1_database_1_1_value_binder.html", "class_cake_1_1_database_1_1_value_binder" ]
+];

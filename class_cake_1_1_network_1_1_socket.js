@@ -1,0 +1,27 @@
+var class_cake_1_1_network_1_1_socket =
+[
+    [ "__construct", "class_cake_1_1_network_1_1_socket.html#abfe0ed44b9c821db97c86d87c86904b1", null ],
+    [ "__destruct", "class_cake_1_1_network_1_1_socket.html#a421831a265621325e1fdd19aace0c758", null ],
+    [ "_connectionErrorHandler", "class_cake_1_1_network_1_1_socket.html#a44015954ae26c71a94aa749a5a5b5909", null ],
+    [ "_setSslContext", "class_cake_1_1_network_1_1_socket.html#a96bb601c2a401bc8d2a2b183a5cde8e3", null ],
+    [ "address", "class_cake_1_1_network_1_1_socket.html#af7b3db82ea76900bf0727eeeab10a489", null ],
+    [ "addresses", "class_cake_1_1_network_1_1_socket.html#af8c418b484ca0e7d0bf39add8494f5da", null ],
+    [ "connect", "class_cake_1_1_network_1_1_socket.html#a78572828d11dcdf2a498497d9001d557", null ],
+    [ "context", "class_cake_1_1_network_1_1_socket.html#a23a1f7bd41068b622c4015f5654ee3f3", null ],
+    [ "disconnect", "class_cake_1_1_network_1_1_socket.html#abe175fcf658475bc56e9d6fa02bc88ec", null ],
+    [ "enableCrypto", "class_cake_1_1_network_1_1_socket.html#af26284235dce4b5dbd1aed05162ad32b", null ],
+    [ "host", "class_cake_1_1_network_1_1_socket.html#aac7948be4202027f002c8264aa24b21d", null ],
+    [ "lastError", "class_cake_1_1_network_1_1_socket.html#af65c45138f40f2e7b5d25cf43ee039dc", null ],
+    [ "read", "class_cake_1_1_network_1_1_socket.html#aa91547fb73d6d1987c664e04a36b696d", null ],
+    [ "reset", "class_cake_1_1_network_1_1_socket.html#a7452f42cd9e4cfceec569d5381f3009f", null ],
+    [ "setLastError", "class_cake_1_1_network_1_1_socket.html#aaa7682c9945fc72870b0a64ae7a20d85", null ],
+    [ "write", "class_cake_1_1_network_1_1_socket.html#a85013b0dcf138f6997e2a05332ed0dd5", null ],
+    [ "$_connectionErrors", "class_cake_1_1_network_1_1_socket.html#a2d6cd92a43d2c6cfb12fb2d10be96469", null ],
+    [ "$_defaultConfig", "class_cake_1_1_network_1_1_socket.html#a7b6031f7f7be4e2f5906419896d152e3", null ],
+    [ "$_encryptMethods", "class_cake_1_1_network_1_1_socket.html#a16a0e96285900586669ca4e57bb5ce6b", null ],
+    [ "$connected", "class_cake_1_1_network_1_1_socket.html#adb9756d4524181e191069eaa76afb6cf", null ],
+    [ "$connection", "class_cake_1_1_network_1_1_socket.html#a0d9c79b9b86b3f5891c6d3892f12c6a0", null ],
+    [ "$description", "class_cake_1_1_network_1_1_socket.html#a87b032cba06009e3467abf1c8018d960", null ],
+    [ "$encrypted", "class_cake_1_1_network_1_1_socket.html#a4ac37790931818c0ac730fa8b4e58760", null ],
+    [ "$lastError", "class_cake_1_1_network_1_1_socket.html#a6cb6be70a528323568af007db6a3885e", null ]
+];

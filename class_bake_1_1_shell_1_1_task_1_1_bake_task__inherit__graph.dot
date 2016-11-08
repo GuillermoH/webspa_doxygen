@@ -1,0 +1,41 @@
+digraph "BakeTask"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BakeTask",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Shell",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_console_1_1_shell.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ControllerTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_controller_task.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="FixtureTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_fixture_task.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ModelTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_model_task.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PluginTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_plugin_task.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SimpleBakeTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_simple_bake_task.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="BehaviorTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_behavior_task.html"];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="CellTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_cell_task.html"];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="ComponentTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_component_task.html"];
+  Node7 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="FormTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_form_task.html"];
+  Node7 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="HelperTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_helper_task.html"];
+  Node7 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="MailerTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_mailer_task.html"];
+  Node7 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="ShellHelperTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_shell_helper_task.html"];
+  Node7 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="ShellTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_shell_task.html"];
+  Node7 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="TaskTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_task_task.html"];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="TemplateTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_template_task.html"];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="TestTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_bake_1_1_shell_1_1_task_1_1_test_task.html"];
+}

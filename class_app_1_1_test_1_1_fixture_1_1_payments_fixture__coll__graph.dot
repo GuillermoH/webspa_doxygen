@@ -1,0 +1,12 @@
+digraph "PaymentsFixture"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="PaymentsFixture",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TestFixture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_test_suite_1_1_fixture_1_1_test_fixture.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="FixtureInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_cake_1_1_datasource_1_1_fixture_interface.html"];
+  Node4 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TableSchemaInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_cake_1_1_datasource_1_1_table_schema_interface.html"];
+}

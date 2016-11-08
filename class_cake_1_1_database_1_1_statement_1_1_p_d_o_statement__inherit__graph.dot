@@ -1,0 +1,18 @@
+digraph "PDOStatement"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="PDOStatement",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="StatementDecorator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_database_1_1_statement_1_1_statement_decorator.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="StatementInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_cake_1_1_database_1_1_statement_interface.html"];
+  Node4 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Countable",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="IteratorAggregate",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="MysqlStatement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_database_1_1_statement_1_1_mysql_statement.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SqlserverStatement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_cake_1_1_database_1_1_statement_1_1_sqlserver_statement.html"];
+}

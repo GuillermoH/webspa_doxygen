@@ -1,0 +1,26 @@
+var class_cake_1_1_event_1_1_event_manager =
+[
+    [ "__debugInfo", "class_cake_1_1_event_1_1_event_manager.html#aca922c6f7bcc068784112a8e402a59f7", null ],
+    [ "_attachSubscriber", "class_cake_1_1_event_1_1_event_manager.html#af23ff3ccd4a81c1162b00b7c245d2230", null ],
+    [ "_callListener", "class_cake_1_1_event_1_1_event_manager.html#a32114b9f29ca48efc8dd6fbea98cc4b6", null ],
+    [ "_detachSubscriber", "class_cake_1_1_event_1_1_event_manager.html#a293cc36665f86f24a116148b8eeaab63", null ],
+    [ "_extractCallable", "class_cake_1_1_event_1_1_event_manager.html#a608646ad8ee38df75a8c5899ef991035", null ],
+    [ "addEventToList", "class_cake_1_1_event_1_1_event_manager.html#a114f61b1c027a2259f3e755d24336966", null ],
+    [ "attach", "class_cake_1_1_event_1_1_event_manager.html#a62c5896ed9304f40225de20ef4518cce", null ],
+    [ "detach", "class_cake_1_1_event_1_1_event_manager.html#a11ef884fcc6d57632862cdd6bc922c64", null ],
+    [ "dispatch", "class_cake_1_1_event_1_1_event_manager.html#af034aa503ca063fc5a2acde3ab88f78d", null ],
+    [ "getEventList", "class_cake_1_1_event_1_1_event_manager.html#a79d1a21098077cc8308600ca20c47bff", null ],
+    [ "isTrackingEvents", "class_cake_1_1_event_1_1_event_manager.html#a7c1a207f26b8eee5eb51ffa21bcaa55e", null ],
+    [ "listeners", "class_cake_1_1_event_1_1_event_manager.html#a15c203fe967f31e0a35fce2658fe570f", null ],
+    [ "matchingListeners", "class_cake_1_1_event_1_1_event_manager.html#abf29ce45395df14bb1f4fbdca8b4347e", null ],
+    [ "off", "class_cake_1_1_event_1_1_event_manager.html#a1346b3948091ba99b0aad4e2a1cdaa36", null ],
+    [ "on", "class_cake_1_1_event_1_1_event_manager.html#a5cbfa0a1854fd3af1c1efba1e3f135d4", null ],
+    [ "prioritisedListeners", "class_cake_1_1_event_1_1_event_manager.html#a8e125298b167eb6b39588a702a902ca1", null ],
+    [ "setEventList", "class_cake_1_1_event_1_1_event_manager.html#a4c4b956dad58da283fd7082f6bc8d695", null ],
+    [ "trackEvents", "class_cake_1_1_event_1_1_event_manager.html#a0674cda5b7a5527afc140ee32e2aabcd", null ],
+    [ "unsetEventList", "class_cake_1_1_event_1_1_event_manager.html#ae0d468a3e089587f219b789724c9ad83", null ],
+    [ "$_eventList", "class_cake_1_1_event_1_1_event_manager.html#aa49593179d0b922504222d51c34426df", null ],
+    [ "$_isGlobal", "class_cake_1_1_event_1_1_event_manager.html#a91f358571352f349b55708fe62122067", null ],
+    [ "$_listeners", "class_cake_1_1_event_1_1_event_manager.html#ac9ab86952b67dcd231008c3757d44930", null ],
+    [ "$_trackEvents", "class_cake_1_1_event_1_1_event_manager.html#a62edafb79b32615e00a8ee435edd451e", null ]
+];

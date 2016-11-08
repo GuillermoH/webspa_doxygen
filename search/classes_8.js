@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['i18n',['I18n',['../class_cake_1_1_i18n_1_1_i18n.html',1,'Cake::I18n']]],
+  ['i18nshell',['I18nShell',['../class_cake_1_1_shell_1_1_i18n_shell.html',1,'Cake::Shell']]],
+  ['icuformatter',['IcuFormatter',['../class_cake_1_1_i18n_1_1_formatter_1_1_icu_formatter.html',1,'Cake::I18n::Formatter']]],
+  ['icuversiontoolow',['IcuVersionTooLow',['../class_aura_1_1_intl_1_1_exception_1_1_icu_version_too_low.html',1,'Aura::Intl::Exception']]],
+  ['identifierexpression',['IdentifierExpression',['../class_cake_1_1_database_1_1_expression_1_1_identifier_expression.html',1,'Cake::Database::Expression']]],
+  ['identifierquoter',['IdentifierQuoter',['../class_cake_1_1_database_1_1_identifier_quoter.html',1,'Cake::Database']]],
+  ['inflectedroute',['InflectedRoute',['../class_cake_1_1_routing_1_1_route_1_1_inflected_route.html',1,'Cake::Routing::Route']]],
+  ['iniconfig',['IniConfig',['../class_cake_1_1_core_1_1_configure_1_1_engine_1_1_ini_config.html',1,'Cake::Core::Configure::Engine']]],
+  ['insertiterator',['InsertIterator',['../class_cake_1_1_collection_1_1_iterator_1_1_insert_iterator.html',1,'Cake::Collection::Iterator']]],
+  ['installer',['Installer',['../class_app_1_1_console_1_1_installer.html',1,'App::Console']]],
+  ['integertype',['IntegerType',['../class_cake_1_1_database_1_1_type_1_1_integer_type.html',1,'Cake::Database::Type']]],
+  ['integrationtestcase',['IntegrationTestCase',['../class_cake_1_1_test_suite_1_1_integration_test_case.html',1,'Cake::TestSuite']]],
+  ['internalerrorexception',['InternalErrorException',['../class_cake_1_1_network_1_1_exception_1_1_internal_error_exception.html',1,'Cake::Network::Exception']]],
+  ['intlformatter',['IntlFormatter',['../class_aura_1_1_intl_1_1_intl_formatter.html',1,'Aura::Intl']]],
+  ['intlformattertest',['IntlFormatterTest',['../class_aura_1_1_intl_1_1_intl_formatter_test.html',1,'Aura::Intl']]],
+  ['invalidcsrftokenexception',['InvalidCsrfTokenException',['../class_cake_1_1_network_1_1_exception_1_1_invalid_csrf_token_exception.html',1,'Cake::Network::Exception']]],
+  ['invalidprimarykeyexception',['InvalidPrimaryKeyException',['../class_cake_1_1_datasource_1_1_exception_1_1_invalid_primary_key_exception.html',1,'Cake::Datasource::Exception']]],
+  ['invalidpropertyinterface',['InvalidPropertyInterface',['../interface_cake_1_1_datasource_1_1_invalid_property_interface.html',1,'Cake::Datasource']]],
+  ['invitationsfixture',['InvitationsFixture',['../class_bake_1_1_test_1_1_fixture_1_1_invitations_fixture.html',1,'Bake::Test::Fixture']]],
+  ['isunique',['IsUnique',['../class_cake_1_1_o_r_m_1_1_rule_1_1_is_unique.html',1,'Cake::ORM::Rule']]]
+];

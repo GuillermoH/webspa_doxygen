@@ -1,0 +1,28 @@
+var class_cake_1_1_test_suite_1_1_test_case =
+[
+    [ "_assertAttributes", "class_cake_1_1_test_suite_1_1_test_case.html#a7a206dfba7177e722df78085f0cdf2ce", null ],
+    [ "_normalizePath", "class_cake_1_1_test_suite_1_1_test_case.html#ab96dacdfa87d3543b2508e66b3c6ddc8", null ],
+    [ "assertEventFired", "class_cake_1_1_test_suite_1_1_test_case.html#a22aaa5d2e44c673284b8dbcca41bed19", null ],
+    [ "assertEventFiredWith", "class_cake_1_1_test_suite_1_1_test_case.html#acafc82637b7956289183aa3995384754", null ],
+    [ "assertHtml", "class_cake_1_1_test_suite_1_1_test_case.html#a653935d2a096438d8ecfa81a5d707047", null ],
+    [ "assertTags", "class_cake_1_1_test_suite_1_1_test_case.html#a1a924e40a6b1a147d4cb176dc0f641c9", null ],
+    [ "assertTextContains", "class_cake_1_1_test_suite_1_1_test_case.html#ad954cf22284f789c5f40fbf74b998f70", null ],
+    [ "assertTextEndsNotWith", "class_cake_1_1_test_suite_1_1_test_case.html#a6e4752ddc0c939aef85ff4c521390fdc", null ],
+    [ "assertTextEndsWith", "class_cake_1_1_test_suite_1_1_test_case.html#a32f3bdeb90efb5b747a0c43723e16b14", null ],
+    [ "assertTextEquals", "class_cake_1_1_test_suite_1_1_test_case.html#ab73630b80aaeb08165b5fc05e7beada2", null ],
+    [ "assertTextNotContains", "class_cake_1_1_test_suite_1_1_test_case.html#a07b6f7f4ae02c257eca489ee263c4d1c", null ],
+    [ "assertTextNotEquals", "class_cake_1_1_test_suite_1_1_test_case.html#a2afe65ab95f3c7ae9e6611e9b9c6e3b2", null ],
+    [ "assertTextStartsNotWith", "class_cake_1_1_test_suite_1_1_test_case.html#ac62a8f7d4c77e421282879518e8b309b", null ],
+    [ "assertTextStartsWith", "class_cake_1_1_test_suite_1_1_test_case.html#a5fa0bc7a22f07d91e5cc22d5a3cf0ada", null ],
+    [ "getMockForModel", "class_cake_1_1_test_suite_1_1_test_case.html#af0eba8cc3131a81e25ab51e34273f119", null ],
+    [ "loadFixtures", "class_cake_1_1_test_suite_1_1_test_case.html#aec794722bef0d1969a2c34a4abddbdbe", null ],
+    [ "setUp", "class_cake_1_1_test_suite_1_1_test_case.html#a0bc688732d2b3b162ffebaf7812e78da", null ],
+    [ "skipIf", "class_cake_1_1_test_suite_1_1_test_case.html#a1177a839e6feac278791fd6e2039c2c8", null ],
+    [ "skipUnless", "class_cake_1_1_test_suite_1_1_test_case.html#a885cef95c0f4bf71f63e5ae15b18abbd", null ],
+    [ "tearDown", "class_cake_1_1_test_suite_1_1_test_case.html#a80fe3d17e658907fc75346a0ec9d6fc7", null ],
+    [ "$_configure", "class_cake_1_1_test_suite_1_1_test_case.html#aad2adee529dc9bef99d9a7a0a7989d12", null ],
+    [ "$_pathRestore", "class_cake_1_1_test_suite_1_1_test_case.html#a4733e86bbf9bf8a3d3e6f52599c20fca", null ],
+    [ "$autoFixtures", "class_cake_1_1_test_suite_1_1_test_case.html#a7c071286b827e3ffbe0e61183f493cd9", null ],
+    [ "$dropTables", "class_cake_1_1_test_suite_1_1_test_case.html#a095aaa7df64e070625d90cb44ab4b324", null ],
+    [ "$fixtureManager", "class_cake_1_1_test_suite_1_1_test_case.html#ae3ec58b1cc9b7ebf99b405f150914c3c", null ]
+];
